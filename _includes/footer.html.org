@@ -4,6 +4,6 @@
     {{ site.copyright | markdownify }}
   {% endif %}
   <p>
-    <code>Powered by aiden</a></code>
+    <code>Powered by <a href=isme2n "https://isme2n.github.io/">aiden</a></code>
   </p>
 </footer>

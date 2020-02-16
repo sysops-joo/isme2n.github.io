@@ -13,7 +13,7 @@ url:                 https://sysops-joo.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             게으르기 위해 부지런하기.
+tagline:             내일 게을러지기 위해<BR/> 오늘 부지런하기.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
