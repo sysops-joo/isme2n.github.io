@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Opslog
+title: OpsLog
 slug: opslog
 menu: true
 submenu: true

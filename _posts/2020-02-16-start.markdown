@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '이럴 때가 아니야'
-subtitle: '정신 차려'
-categories: essay
-tags: essay 
+title: 'github.io 시작'
+subtitle: 'github.io 시작'
+categories: doodle
+tags: 
 comments: true
 ---
 
