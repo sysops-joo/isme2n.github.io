@@ -9,13 +9,13 @@ comments: true
 
 ## 테스트 환경
 
-ICT전략실 사정과 추후 서비스 운영을 고려하여 아래와 같이 결정하였습니다.  
+ICT전략실 사정을 고려하여 아래와 같이 결정하였습니다.  
 
 ---
-- Public vs `Private`
+- `Private` vs Public
 
-- Server vs `Desktop`
+- `Desktop` vs Server
 
 - 공용망 vs `폐쇄망`
 
-- `Local Disk` vs Block Storage
+- Local Disk vs `Block Storage`
