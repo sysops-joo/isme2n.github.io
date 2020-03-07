@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 0
 description: >
-  > 생각과 느낌, 일상에 대한 글을 씁니다.
+  > 평소 생각이나 일상에 대한 글을 씁니다.
 ---

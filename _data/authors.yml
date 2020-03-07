@@ -8,8 +8,8 @@ sysops-joo:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    고수분들의 도움만 받다가 이제는 제 얄팍한 지식도 누군가에겐 도움이 되지 않을까    
-    하는 근자감을 가지고 무작정 블로그를 시작하였습니다 :) 
+     Cloud 업무를 하면서 얻은 경험과 지식들을 공유하고 싶어서 시작하게 되었습니다만,  
+     블로그까지 신경쓸 내공이 없어 언제쯤 읽을만한 글을 올릴 수 있을지 모르겠습니다.. ^-^;
 
   # This photo will be used in the about section
   picture:
